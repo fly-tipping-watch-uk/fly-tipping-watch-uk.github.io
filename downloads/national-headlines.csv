@@ -1,0 +1,5 @@
+Nation,Period,Headline,Incidents,Change percent,Enforcement actions,Coverage note,Source ID
+England,2024/25,1.26 million incidents dealt with by local authorities,1260000,9,572000,Excludes large-scale incidents dealt with by the Environment Agency and the majority of incidents on private land.,ENG-STAT-2025
+Wales,2024/25,"48,367 incidents reported by local authorities",48367,15,27749,Reporting practices and data collection changes can affect year-on-year comparisons. Private-land incidents are under-recorded.,WAL-STAT-2025
+Scotland,Current official context,"Around 26,000 tonnes fly-tipped each year",,,,"Scotland does not currently have a complete, mandatory, nationally comparable annual local-authority incident series. The official baseline received primary data from 14 of 32 councils.",SCO-CONTEXT-2026
+Northern Ireland,Current reporting framework,Councils handle ordinary incidents; NIEA handles serious waste crime,,,,The launch dataset does not present a Northern Ireland incident total as directly comparable with the England and Wales local-authority series.,NI-ROUTE-2026

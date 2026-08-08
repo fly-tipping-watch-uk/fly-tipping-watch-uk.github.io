@@ -1,0 +1,20 @@
+[
+  {
+    "id": "FTW-CASESTUDY-001",
+    "kind": "Published ombudsman finding",
+    "title": "Delayed response to a fly-tipping complaint",
+    "authority": "Caerphilly County Borough Council",
+    "nation": "Wales",
+    "date": "2021-08-04",
+    "status": "Early resolution",
+    "summary": "The Public Services Ombudsman for Wales recorded concern that the complainant had not received a response and had been inconvenienced by the council's actions.",
+    "outcome": "The council agreed to apologise for the delay and provide a complaint response. The recommendations were actioned before the Ombudsman's enquiries concluded.",
+    "sourceId": "OMB-WALES-CASE",
+    "officialUrl": "https://www.ombudsman.wales/findings/environment-and-environmental-health-caerphilly-county-borough-council/",
+    "lessons": [
+      "Keep the original service report separate from the complaint about how it was handled.",
+      "Record dates and unanswered correspondence.",
+      "Complete the authority's complaint process before approaching the ombudsman unless exceptional circumstances apply."
+    ]
+  }
+]

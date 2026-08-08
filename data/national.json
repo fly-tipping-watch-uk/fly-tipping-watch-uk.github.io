@@ -1,0 +1,124 @@
+{
+  "checked": "4 August 2026",
+  "countries": [
+    {
+      "slug": "england",
+      "name": "England",
+      "period": "2024/25",
+      "releaseDate": "25 February 2026",
+      "coverage": "Local-authority recorded incidents",
+      "incidents": 1260000,
+      "change": 9,
+      "householdPct": 62,
+      "householdIncidents": 777000,
+      "enforcementActions": 572000,
+      "investigations": 386000,
+      "fixedPenaltyNotices": 69000,
+      "highwayIncidents": 463000,
+      "largeIncidents": 52000,
+      "largeClearanceCost": 19300000,
+      "headline": "1.26 million incidents dealt with by local authorities",
+      "note": "Excludes large-scale incidents dealt with by the Environment Agency and the majority of incidents on private land.",
+      "sourceId": "ENG-STAT-2025"
+    },
+    {
+      "slug": "wales",
+      "name": "Wales",
+      "period": "2024/25",
+      "releaseDate": "24 February 2026",
+      "coverage": "Local-authority recorded incidents",
+      "incidents": 48367,
+      "change": 15,
+      "householdPct": 71,
+      "enforcementActions": 27749,
+      "investigations": 22924,
+      "prosecutionOutcomes": 70,
+      "fineOutcomePct": 80,
+      "headline": "48,367 incidents reported by local authorities",
+      "note": "Reporting practices and data collection changes can affect year-on-year comparisons. Private-land incidents are under-recorded.",
+      "sourceId": "WAL-STAT-2025"
+    },
+    {
+      "slug": "scotland",
+      "name": "Scotland",
+      "period": "Current official context",
+      "releaseDate": "Information checked August 2026",
+      "coverage": "National context; not a comparable annual council series",
+      "flytippedTonnes": 26000,
+      "cleanupSpend": 53000000,
+      "authoritiesProvidingPrimaryData": 14,
+      "authoritiesTotal": 32,
+      "historicIncidents2019to2022": 207960,
+      "historicFPNs2019to2022": 2467,
+      "historicProsecutionReferrals2019to2022": 45,
+      "headline": "Around 26,000 tonnes fly-tipped each year",
+      "note": "At least \u00a353 million of public money is spent on cleaning up litter and fly-tipping combined. Scotland does not currently have a complete, mandatory, nationally comparable annual local-authority incident series; the official baseline received primary data from 14 of 32 councils.",
+      "sourceId": "SCO-CONTEXT-2026",
+      "cleanupSpendLabel": "litter and fly-tipping clean-up combined"
+    },
+    {
+      "slug": "northern-ireland",
+      "name": "Northern Ireland",
+      "period": "Current reporting framework",
+      "releaseDate": "Information checked August 2026",
+      "coverage": "Reporting routes; no comparable launch series included",
+      "headline": "Councils handle ordinary incidents; NIEA handles serious waste crime",
+      "note": "The launch dataset does not present a Northern Ireland incident total as directly comparable with the England and Wales local-authority series.",
+      "sourceId": "NI-ROUTE-2026"
+    }
+  ],
+  "englandRegional": [
+    {
+      "name": "London",
+      "per1000": 53,
+      "note": "Highest English regional average"
+    },
+    {
+      "name": "England",
+      "per1000": 21,
+      "note": "National average"
+    },
+    {
+      "name": "South West",
+      "per1000": 9,
+      "note": "Lowest English regional average"
+    }
+  ],
+  "walesChanges": [
+    {
+      "name": "Denbighshire",
+      "change": 230,
+      "context": "Official release attributes much of the increase to improved data collection."
+    },
+    {
+      "name": "Vale of Glamorgan",
+      "change": 100,
+      "context": "Large reported annual increase."
+    },
+    {
+      "name": "Merthyr Tydfil",
+      "change": 68,
+      "context": "Large reported annual increase."
+    },
+    {
+      "name": "Caerphilly",
+      "change": 63,
+      "context": "Large reported annual increase."
+    },
+    {
+      "name": "Gwynedd",
+      "change": -22,
+      "context": "Largest reported annual decrease."
+    },
+    {
+      "name": "Bridgend",
+      "change": -11,
+      "context": "Reported annual decrease."
+    },
+    {
+      "name": "Newport",
+      "change": -10,
+      "context": "Reported annual decrease."
+    }
+  ]
+}
